@@ -1,0 +1,1 @@
+some text added and aliased add command to my-add
